@@ -42,6 +42,7 @@ These sentences can be combined to infer a new sentence: {D, E} = 1 which makes 
 Using the knowledge base of many different sentences like the ones above, the AI makes deductions using the behaviours mentioned above until all possible inferences are made. If all possible inferences have been made and there are no known safe spaces to make, the AI will make a random move on the board. 
 
 
+Visit http://tomchoi.co.uk/minesweeper-ai/ to see a video of it in action.
 
 
 ### runner.py ...
